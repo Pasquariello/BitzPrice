@@ -107,7 +107,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "next/head");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _Navbar__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Navbar */ "./components/Navbar.js");
-var _jsxFileName = "/Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitsPrice/components/Layout.js";
+var _jsxFileName = "/Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitzPrice/components/Layout.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -127,7 +127,7 @@ const Layout = props => __jsx("div", {
   __self: undefined
 }, __jsx("link", {
   rel: "stylesheet",
-  href: "https://bootswatch.com/4/slate/bootstrap.min.css",
+  href: "https://bootswatch.com/4/lux/bootstrap.min.css",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 8
@@ -171,7 +171,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitsPrice/components/Navbar.js";
+var _jsxFileName = "/Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitzPrice/components/Navbar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -1966,7 +1966,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Layout */ "./components/Layout.js");
-var _jsxFileName = "/Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitsPrice/pages/about.js";
+var _jsxFileName = "/Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitzPrice/pages/about.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2008,7 +2008,7 @@ const About = () => __jsx(_components_Layout__WEBPACK_IMPORTED_MODULE_1__["defau
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitsPrice/pages/about.js */"./pages/about.js");
+module.exports = __webpack_require__(/*! /Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitzPrice/pages/about.js */"./pages/about.js");
 
 
 /***/ }),

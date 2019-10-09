@@ -107,7 +107,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "next/head");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _Navbar__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Navbar */ "./components/Navbar.js");
-var _jsxFileName = "/Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitsPrice/components/Layout.js";
+var _jsxFileName = "/Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitzPrice/components/Layout.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -127,7 +127,7 @@ const Layout = props => __jsx("div", {
   __self: undefined
 }, __jsx("link", {
   rel: "stylesheet",
-  href: "https://bootswatch.com/4/slate/bootstrap.min.css",
+  href: "https://bootswatch.com/4/lux/bootstrap.min.css",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 8
@@ -171,7 +171,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitsPrice/components/Navbar.js";
+var _jsxFileName = "/Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitzPrice/components/Navbar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -279,7 +279,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "/Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitsPrice/components/Prices.js";
+var _jsxFileName = "/Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitzPrice/components/Prices.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -338,7 +338,7 @@ class Prices extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
           lineNumber: 20
         },
         __self: this
-      }, this.props.bpi.GBP.rate));
+      }, " ", this.props.bpi.GBP.rate));
     } else if (this.state.currency == 'EUR') {
       list = __jsx("li", {
         className: "list-group-item",
@@ -2155,7 +2155,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Prices__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Prices */ "./components/Prices.js");
 /* harmony import */ var isomorphic_unfetch__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! isomorphic-unfetch */ "isomorphic-unfetch");
 /* harmony import */ var isomorphic_unfetch__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(isomorphic_unfetch__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitsPrice/pages/index.js";
+var _jsxFileName = "/Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitzPrice/pages/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2217,7 +2217,7 @@ Index.getInitialProps = async function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitsPrice/pages/index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! /Users/taylorpasquariello/taylorPasqLLC/paseon/next-learning/bitzPrice/pages/index.js */"./pages/index.js");
 
 
 /***/ }),
